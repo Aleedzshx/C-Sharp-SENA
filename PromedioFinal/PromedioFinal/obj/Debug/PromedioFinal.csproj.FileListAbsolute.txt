@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\bin\Debug\PromedioFinal.exe.config
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\bin\Debug\PromedioFinal.exe
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\bin\Debug\PromedioFinal.pdb
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\obj\Debug\PromedioFinal.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\obj\Debug\PromedioFinal.Form1.resources
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\obj\Debug\PromedioFinal.Properties.Resources.resources
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\obj\Debug\PromedioFinal.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\obj\Debug\PromedioFinal.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\obj\Debug\PromedioFinal.exe
+C:\Users\user\Downloads\WinFromsC#\PromedioFinal\PromedioFinal\obj\Debug\PromedioFinal.pdb
