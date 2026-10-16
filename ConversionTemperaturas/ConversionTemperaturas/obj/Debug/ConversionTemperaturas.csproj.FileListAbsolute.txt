@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\bin\Debug\ConversionTemperaturas.exe.config
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\bin\Debug\ConversionTemperaturas.exe
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\bin\Debug\ConversionTemperaturas.pdb
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\obj\Debug\ConversionTemperaturas.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\obj\Debug\ConversionTemperaturas.Form1.resources
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\obj\Debug\ConversionTemperaturas.Properties.Resources.resources
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\obj\Debug\ConversionTemperaturas.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\obj\Debug\ConversionTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\obj\Debug\ConversionTemperaturas.exe
+C:\Users\user\Downloads\WinFromsC#\ConversionTemperaturas\ConversionTemperaturas\obj\Debug\ConversionTemperaturas.pdb

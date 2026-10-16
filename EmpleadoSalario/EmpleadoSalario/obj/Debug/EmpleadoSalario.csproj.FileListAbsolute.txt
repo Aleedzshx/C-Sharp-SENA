@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\bin\Debug\EmpleadoSalario.exe.config
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\bin\Debug\EmpleadoSalario.exe
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\bin\Debug\EmpleadoSalario.pdb
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\obj\Debug\EmpleadoSalario.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\obj\Debug\EmpleadoSalario.Properties.Resources.resources
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\obj\Debug\EmpleadoSalario.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\obj\Debug\EmpleadoSalario.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\obj\Debug\EmpleadoSalario.exe
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\obj\Debug\EmpleadoSalario.pdb
+C:\Users\user\Downloads\WinFromsC#\EmpleadoSalario\EmpleadoSalario\obj\Debug\EmpleadoSalario.Form1.resources
