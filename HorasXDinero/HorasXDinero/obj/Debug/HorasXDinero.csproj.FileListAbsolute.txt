@@ -1,5 +1,0 @@
-C:\Users\user\Downloads\WinFromsC#\HorasXDinero\HorasXDinero\obj\Debug\HorasXDinero.csproj.AssemblyReference.cache
-C:\Users\user\Downloads\WinFromsC#\HorasXDinero\HorasXDinero\obj\Debug\HorasXDinero.Form1.resources
-C:\Users\user\Downloads\WinFromsC#\HorasXDinero\HorasXDinero\obj\Debug\HorasXDinero.Properties.Resources.resources
-C:\Users\user\Downloads\WinFromsC#\HorasXDinero\HorasXDinero\obj\Debug\HorasXDinero.csproj.GenerateResource.cache
-C:\Users\user\Downloads\WinFromsC#\HorasXDinero\HorasXDinero\obj\Debug\HorasXDinero.csproj.CoreCompileInputs.cache
