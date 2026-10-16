@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\obj\Debug\ConversionDeSegundos.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\obj\Debug\ConversionDeSegundos.Form1.resources
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\obj\Debug\ConversionDeSegundos.Properties.Resources.resources
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\obj\Debug\ConversionDeSegundos.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\obj\Debug\ConversionDeSegundos.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\bin\Debug\ConversionDeSegundos.exe.config
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\bin\Debug\ConversionDeSegundos.exe
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\bin\Debug\ConversionDeSegundos.pdb
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\obj\Debug\ConversionDeSegundos.exe
+C:\Users\user\Downloads\WinFromsC#\ConversionDeSegundos\ConversionDeSegundos\obj\Debug\ConversionDeSegundos.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\bin\Debug\Calcular_Perimetro_Area.exe.config
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\bin\Debug\Calcular_Perimetro_Area.exe
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\bin\Debug\Calcular_Perimetro_Area.pdb
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\obj\Debug\Calcular_Perimetro_Area.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\obj\Debug\Calcular_Perimetro_Area.Form1.resources
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\obj\Debug\Calcular_Perimetro_Area.Properties.Resources.resources
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\obj\Debug\Calcular_Perimetro_Area.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\obj\Debug\Calcular_Perimetro_Area.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\obj\Debug\Calcular_Perimetro_Area.exe
+C:\Users\user\Downloads\WinFromsC#\Calcular_Perimetro_Area\Calcular_Perimetro_Area\obj\Debug\Calcular_Perimetro_Area.pdb

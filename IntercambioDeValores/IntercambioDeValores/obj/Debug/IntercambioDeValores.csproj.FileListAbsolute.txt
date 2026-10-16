@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\bin\Debug\IntercambioDeValores.exe.config
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\bin\Debug\IntercambioDeValores.exe
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\bin\Debug\IntercambioDeValores.pdb
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\obj\Debug\IntercambioDeValores.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\obj\Debug\IntercambioDeValores.Form1.resources
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\obj\Debug\IntercambioDeValores.Properties.Resources.resources
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\obj\Debug\IntercambioDeValores.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\obj\Debug\IntercambioDeValores.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\obj\Debug\IntercambioDeValores.exe
+C:\Users\user\Downloads\WinFromsC#\IntercambioDeValores\IntercambioDeValores\obj\Debug\IntercambioDeValores.pdb
