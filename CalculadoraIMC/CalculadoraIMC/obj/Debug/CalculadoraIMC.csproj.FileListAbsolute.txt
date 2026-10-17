@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Form1.resources
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+C:\Users\user\Downloads\WinFromsC#\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
